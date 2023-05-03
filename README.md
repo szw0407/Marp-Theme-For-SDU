@@ -1,4 +1,6 @@
-# Marp-Theme-UCAS 国科大Marp 主题
+# Marp-Theme-SDU 沙袋Marp 主题
+
+本项目计划基于国科大Marp主题进行修改，但是**暂未更改任何部分**
 
 > 如何使用Markdown做PPT?本仓库是利用Marp实现的国科大markdown Slides
 
