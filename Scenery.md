@@ -1,22 +1,44 @@
 ---
 marp: true
-theme: UCASSce
+theme: SDUSce
 paginate: true
 ---
 
 <!--
 _paginate: false
 -->
-![bg vertical w:1300px](images/bg3.jpg)
-<br/>
-<br/>
-<br/>
-<br/>
+![bg vertical w:1300px](./images/Home-scenery.png)
 
+<style scoped>
+h1 {
+    position:absolute;
+    text-align:center;
+    left:0;
+    right:0;
+    top:20%
+}
+h2 {
+    position:relative;
+    top:40%;
+}
+p {
+    text-align:right;
+    position:relative;
+    top:25%
+}
+</style>
 
 # 汇报题目 h1样式
+
 ## 副标题 h2样式
-**BeWater  2021-12-10**
+
+szw0407
+
+202200******
+
+School of Material Science & Engineering
+
+**BeWater  2023-06-01**
 
 
 ---
@@ -25,7 +47,8 @@ _paginate: false
   text-align: center;
     }
     h1 {
-        color: rgb(60, 112, 198);
+        color: #7a1c25;
+        text-align:center;
         margin-bottom: 30px;
     }
     h6 {
@@ -37,7 +60,7 @@ _paginate: false
 _paginate: false 
 -->
 
-![bg left:55% ](./images/bg5.jpg)
+![bg right:45%](./images/ZhiXin-night.jpg)
 # 目 录
 
 ###### 1 Slide 概述
@@ -55,11 +78,17 @@ _paginate: false
   text-align: center;
     }
     h1 {
-        color: rgb(60, 112, 198);
+        color: white;
+        background-color:#7a1c25;
         margin-bottom: 30px;
+        padding:0;
+        margin-left:-60%;
+        margin-right:-20%;
+
     }
     h6 {
-        text-align: center;
+        position:relative;
+        left:15%
     }
 
 </style>
@@ -67,7 +96,7 @@ _paginate: false
 _paginate: false 
 -->
 
-![bg left:55% ](./images/bg6.jpg)
+![bg left:55% ](./images/BaoTuQuan.jpg)
 # 目 录
 
 ###### 1 Slide 概述
@@ -194,10 +223,15 @@ $$
 ### 一些参考& 进一步阅读
 
 > Marp 官方文档 [link](https://marpit.marp.app/markdown)
+
 > 分栏显示  [link](https://github.com/marp-team/marp/discussions/192)
+
 > Marp VSCode教程 [link](https://github.com/marp-team/marp-vscode)
+
 > CAI Marp详细教程博客 [link](https://caizhiyuan.gitee.io/categories/skills/20200730-marp.html#%E5%8A%9F%E8%83%BD)
+
 > theme gaia 源代码 [link](https://github.com/marp-team/marp-core/blob/main/themes/gaia.scss)
+
 > theme uncover 源代码 [link](https://github.com/marp-team/marp-core/blob/main/themes/uncover.scss)
 
 ---
@@ -215,12 +249,9 @@ $$
 _paginate: false 
 -->
 
-![bg vertical w:1300px](images/bg4.jpg)
+![bg vertical w:1300px](images/South-UpDown.png)
 <br/>
 <br/>
 <br/>
 
-# 请各位老师批评指正
-**BeWater 2021-12-10**
-![img w:400px](images/logo.png)
-
+### 请各位老师批评指正！
