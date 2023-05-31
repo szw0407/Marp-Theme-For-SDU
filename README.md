@@ -1,6 +1,12 @@
-# Marp-Theme-SDU 沙袋Marp 主题
+# Marp-Theme  Marp 主题
 
 本项目计划基于国科大Marp主题进行修改。
+
+本仓库旨在分析Marp的文件结构，并提供一些二次开发的指导。
+
+Marp的官方文档写得很不清晰，不容易看懂，而且似乎不是面向普通用户的。本仓库内的很多内容都是我参考国科大的模板“理解”出来的。
+
+**以下内容是原仓库的readme**
 
 > 如何使用Markdown做PPT?本仓库是利用Marp实现的国科大markdown Slides
 
