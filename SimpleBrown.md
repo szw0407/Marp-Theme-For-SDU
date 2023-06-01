@@ -8,12 +8,20 @@ paginate: true
     section {
   text-align: center;
     }
+    h1,h2{
+        background-color:#7a1c25;
+        margin-left:-100px;
+        margin-right:-100px;
+        padding:25px;
+    }
+    h1{
+        margin-bottom:-15px;
+    }
+    h2{
+        box-shadow:0px 10px 5px 0px darkgray;
+    }
 </style>
 
-<!--
-_backgroundImage: url("./images/bg1.jpg")
-_paginate: false 
--->
 
 ![img w:460px](./images/logo2.jpg)
 
