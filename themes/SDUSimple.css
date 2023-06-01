@@ -11,7 +11,7 @@ section {
    padding: 50px;
    text-align: left;
    font-family:Arial, Helvetica, sans-serif;
-   background:whitesmoke;
+   background:linear-gradient(white,whitesmoke,seashell);
   }
  
   h1 {
@@ -59,10 +59,10 @@ section {
     right: 50px;
     top: 10px;
     height: 50px;
-    background-image: url("./images/logo.png"); 
+    background-image: url("./images/logo2.jpg"); 
     background-position: right top;
     background-repeat: no-repeat;
-    background-size: 200px;
+    background-size: 250px;
     text-align:left;
     color: #7a1c25;
     font-weight: bold;
