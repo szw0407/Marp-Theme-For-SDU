@@ -15,7 +15,7 @@ h1 {
     text-align:center;
     left:0;
     right:0;
-    top:20%
+    top:30%
 }
 h2 {
     position:relative;
