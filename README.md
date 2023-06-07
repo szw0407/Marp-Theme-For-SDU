@@ -12,13 +12,11 @@ Marp的官方文档写得很不清晰，不容易看懂，而且似乎不是面�
 
 至于我为什么要用marp而不是比如说slidev······只是因为我第一个接触到Markdown presentation的就是这个项目，比较熟悉。本人觉得这很适合新手上手，尤其适合拿来熟悉CSS甚至JS这些原生前端开发工具，对于零基础、不熟悉框架的用户也比较友好。其较为简洁，或许进行进一步修改，自己用JS手搓插件也能比较容易。
 
-**以下内容修改自原仓库的readme**
+~~以下内容修改自原仓库的readme~~
 
 > 如何使用Markdown做PPT?本仓库是利用Marp实现的markdown Slides
 
 这是为山大设计的两款 [Marp](https://github.com/marp-team/marp) 主题.
-
-如果你想要使用这两款主题，强烈建议你先看一下生成的pdf文件。
 
 更多使用细节，可以点击 [前往本人的另一个仓库](https://github.com/szw0407/Marp-Theme-for-UCAS)
 
@@ -35,8 +33,8 @@ Marp
   |     |__settings.json   //主题配置文件
   |__ images              //文稿和主题所用到的图片文件 可对背景和logo进行替换
   |__ themes
-  |     |__SDUSce.css    //UCASSce主题文件
-  |     |__SDUSimple.css //UCASSimple主题文件
-  |__Scenery.md           //UCASSce主题对应的md文件
-  |__SimpleBrown.md        //UCASSimple主题对应的md文件
+  |     |__SDUSce.css    //SDUSce主题文件
+  |     |__SDUSimple.css //SDUSimple主题文件
+  |__Scenery.md           //SDUSce主题对应的md文件
+  |__SimpleBrown.md        //SDUSimple主题对应的md文件
 ```
