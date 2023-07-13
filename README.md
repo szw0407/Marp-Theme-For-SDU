@@ -1,6 +1,6 @@
 # Marp-Theme  Marp 主题
 
-**公告**：由于一些原因，包括但不限于marp功能很有限而且新特性的更新很缓慢，作者已经认为本项目基本完备，决定停止活跃更新，本人正在准备将注意力迁移到另外的markdown presentation项目。当然，如果您在使用的时候认为marp的精简、高效等特点很符合您的要求，欢迎提pr或者fork。
+**公告**：由于一些原因，包括但不限于marp功能很有限而且新特性的更新很缓慢，作者已经认为本项目基本完备，决定停止活跃更新，本人正在准备将注意力迁移到另外的presentation项目。当然，如果您在使用的时候认为marp的精简、高效等特点很符合您的要求，欢迎提pr或者fork。
 
 本项目计划基于国科大Marp主题进行修改，并已经基本完成2个模板的修改，同时对于背景的图片保留了一个PSD文件可供二次编辑。
 
@@ -12,7 +12,9 @@ Marp的官方文档写得很不清晰，不容易看懂，而且似乎不是面�
 
 ![QRcode](https://szw0407.github.io/images/QQgroup.jpg)
 
-至于我为什么要用marp而不是比如说slidev······只是因为我第一个接触到Markdown presentation的就是这个项目，比较熟悉。本人觉得这很适合新手上手，尤其适合拿来熟悉CSS甚至JS这些原生前端开发工具，对于零基础、不熟悉框架的用户也比较友好。其较为简洁，或许进行进一步修改，自己用JS手搓插件也能比较容易。
+至于我为什么要用marp而不是比如说slidev······只是因为我第一个接触到Markdown presentation的就是这个项目，比较熟悉。本人觉得这很适合新手上手，尤其适合拿来熟悉CSS甚至JS这些原生前端开发工具，对于零基础、**不熟悉框架**的用户也比较友好。其较为简洁，或许进行进一步修改，自己用JS手搓插件也能比较容易。
+
+【Update】今天偶然发现[Marp的Obsidian插件](https://github.com/JichouP/obsidian-marp-plugin) 已经推出，这个插件可以让我们在Obsidian上使用Marp进行制作。[Obsidian](https://obsidian.md/)是一个所见即所得的、跨平台、实时保存的功能强大的免费Markdown编辑器。可以在Obsidian插件市场找到下载使用。
 
 **以下内容修改自原仓库的readme**
 
@@ -37,8 +39,8 @@ Marp
   |     |__settings.json   //主题配置文件
   |__ images              //文稿和主题所用到的图片文件 可对背景和logo进行替换
   |__ themes
-  |     |__SDUSce.css    //UCASSce主题文件
-  |     |__SDUSimple.css //UCASSimple主题文件
-  |__Scenery.md           //UCASSce主题对应的md文件
-  |__SimpleBrown.md        //UCASSimple主题对应的md文件
+  |     |__SDUSce.css    //主题文件1
+  |     |__SDUSimple.css //主题文件2
+  |__Scenery.md           //主题1对应的md文件
+  |__SimpleBrown.md        //主题2对应的md文件
 ```
