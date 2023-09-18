@@ -197,7 +197,7 @@ $$
 ### 普通图片
 图片滤镜命令
 
-![img w:500px](images/photo.png)![img w:300px](images/bg3.jpg)|
+![img w:500px](images/photo.png)
 
 
 ---
